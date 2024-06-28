@@ -12,5 +12,5 @@ Auditor ?
 
 >RBI's enforcement actions against auditors with unsatisfactory performance can deter auditors from intentionally overlooking issues due to fear of repercussions from the bank's management
 
-Auditor = Human - Human emotions = LLM 
+Auditor = Human - ( Human emotions ) = LLM 
 
