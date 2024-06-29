@@ -127,3 +127,12 @@ Working:
 
    Working :- It uses powerfull ML algorithms such as XGBOOST,CATBOOST,LGBM and our feature 1 i.e. Ai auditor to analyze the risk and uses voting classifier to determine best output at end .
 
+---
+
+#### Data Safety 
+
+Each feature of our solution is enabled with security layer of Qpaque layer 
+ working :- 
+  1. 
+
+  
