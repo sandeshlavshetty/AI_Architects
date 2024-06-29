@@ -79,5 +79,12 @@ Human review :-
 
      Graph :- It is based on Supervisor Hierarchical architecture 
 
-       1. 
+       1.  Invoicer agent :- It schedule the task of one onvoice row to the documenter agent and initiate Documenter agent.
+
+       2. Documenter agent :-  It extracts the required information for parameter pre-defined  using D1 and D2 further agents tools respectively from response recieved from Invoicer agent.
+
+       3. Authorizer agent :- It check the parameters defined and authorizations and if correct it send to Approved parameter DB and in other case it saves in Anomalies parameter for further course of action.
+
+      This loop continues for whole invoice bill.
+       
 
