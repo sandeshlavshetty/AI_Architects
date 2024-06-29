@@ -132,7 +132,15 @@ Working:
 #### Data Safety 
 
 Each feature of our solution is enabled with security layer of Qpaque layer 
- working :- 
-  1. 
+
+ working :-
+
+  1. ![Screenshot 2024-06-28 214835](https://github.com/sandeshlavshetty/AI_Architects/assets/138968398/b5583260-e7e1-4d19-9303-a39aa267beb8)
+  2. ![Screenshot 2024-06-28 214905](https://github.com/sandeshlavshetty/AI_Architects/assets/138968398/e34a228b-82b0-45da-a5df-afa954be892d)
+
+This is achived through using tools like langchain and Microsoft Presidio
+
+
+Thank-you.....
 
   
