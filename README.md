@@ -57,6 +57,9 @@ We present 3 features of our solution :-
      4️⃣. reporting acceptable and anomalies parameters
 
    
+[A-MAS](ovs_final.png)
+
+![ovs_final](https://github.com/sandeshlavshetty/AI_Architects/assets/138968398/d924cef7-f407-47ae-9ed9-5cd26dde5b04)
 
    
 
