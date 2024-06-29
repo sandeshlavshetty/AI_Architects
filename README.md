@@ -14,3 +14,25 @@ Auditor ?
 
 Auditor = Human - ( Human emotions ) = LLM 
 
+
+---
+### Ai will get integrated with human intelligence in coming future... And that future is now 👇
+
+Streamlining Audits for Efficiency & Risk Reduction
+
+This addresses all three points:
+
+  1. Streamlining implies reducing repetitive tasks.
+  2. Efficiency suggests tackling documentation chaos.
+  3. Risk Reduction highlights the aim of mitigating increased risk.
+
+---
+
+We present 3 features of our solution :- 
+  1. Ai Auditor
+  2. Query Data Visualizer
+  3. Recommendar for Auditing prefernces of Banks and Bank branches.
+
+#### Solution Overview :-
+![ov](https://github.com/sandeshlavshetty/AI_Architects/assets/138968398/fb0a9c10-a45a-4f14-adff-91fd7eb2e001)
+
