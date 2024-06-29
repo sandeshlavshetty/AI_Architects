@@ -92,4 +92,19 @@ Working:
        Every approved and non approved parameters are send to Chat interface one by one for human feedback and re run the process as per user recommendation if required .
 
     Tools :-  Langchain , LangGraph , VectorDB ,  GPT-finetuned ( [B-LLM](B_llm.png)) and other tools.
-  
+
+
+2. Query Data Visualizer
+  [ Data Visualizer tool ](visual.png)
+  ![visual](https://github.com/sandeshlavshetty/AI_Architects/assets/138968398/f2c59efa-3637-45d2-82b7-5e24cdf4fb96)
+
+  Input :- 
+   1. Any type of Banking and non-banking data which Banker/auditers/Heads want to see in visual presentation .
+   2. Types of Diagram ( histogram,piecharts,etc.)
+
+  Output :- 
+   1. It intially create self querry and create visual presentations of Data.
+   2. The query can be given by user  and create on demand visual presentation with hassle free work.  ( e.g. create a line plot between loan approval and loan re-payments , create histogram for types of loans approved,etc)
+
+  Working :-
+   1.
