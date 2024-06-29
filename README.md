@@ -29,10 +29,11 @@ This addresses all three points:
 ---
 
 We present 3 features of our solution :- 
-  1. Ai Auditor
+  1. Ai Auditor ( A-MAS )
   2. Query Data Visualizer
   3. Recommendar for Auditing prefernces of Banks and Bank branches.
 
-#### Solution Overview :-
+#### Solution Overview :- 
+[Overview image ](ov.png)
 ![ov](https://github.com/sandeshlavshetty/AI_Architects/assets/138968398/fb0a9c10-a45a-4f14-adff-91fd7eb2e001)
 
