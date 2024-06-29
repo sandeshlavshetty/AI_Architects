@@ -43,7 +43,7 @@ We present 3 features of our solution :-
 
 
 
-1. Ai auditor ( A-MAS )
+1.  🥇Ai auditor ( A-MAS )
    A-MAS > Auditing Multi agent system
 
    Our Ai auditor performs the task of :-
@@ -94,7 +94,7 @@ Working:
     Tools :-  Langchain , LangGraph , VectorDB ,  GPT-finetuned ( [B-LLM](B_llm.png)) and other tools.
 
 
-2. Query Data Visualizer
+2. 🥈Query Data Visualizer
   [ Data Visualizer tool ](visual.png)
   ![visual](https://github.com/sandeshlavshetty/AI_Architects/assets/138968398/f2c59efa-3637-45d2-82b7-5e24cdf4fb96)
 
@@ -107,10 +107,23 @@ Working:
    1. It intially create self querry and create visual presentations of Data.
    2. The query can be given by user  and create on demand visual presentation with hassle free work.  ( e.g. create a line plot between loan approval and loan re-payments , create histogram for types of loans approved,etc)
 
-  Working :-
-   1. Data is first splitted into chunks and there respectivev context is stored in DB using our B-LLM.
-   2. Based on User query a RAG(Retrieval-Augmented Generation) is performed and data is forwarded to viz-Generator.
-   3. Viz-Generator ( Visual Generator ) generate the images and graphs based on Related data and showed at info-grapher stage.
-   4. At info-grapher stage the Data-visualis are presented and further customizations are done ( e.g.* Sketch prompt: line sketch art,line drawing,etc ) through chat interface only in natural language.
+    Working :-
+     1. Data is first splitted into chunks and there respectivev context is stored in DB using our B-LLM.
+     2. Based on User query a RAG(Retrieval-Augmented Generation) is performed and data is forwarded to viz-Generator.
+     3. Viz-Generator ( Visual Generator ) generate the images and graphs based on Related data and showed at info-grapher stage.
+     4. At info-grapher stage the Data-visualis are presented and further customizations are done ( e.g.* Sketch prompt: line sketch art,line drawing,etc ) through chat interface only in natural language.
 
+
+3. 🥉Recommendar for Auditing prefernces of Banks and Bank branches.
+   [Recommender](recd.png)
+
+   ![recd](https://github.com/sandeshlavshetty/AI_Architects/assets/138968398/93b41002-29fb-4d71-81ea-313753770e00)
+
+   Branch heads or maintainers of different branches of a bank will get recommendations for bank branches auditing prefernces and potential risks .
+
+   This recommendaor will work on :-
+     1. Bank branch transaction logs .
+     2. Prevoius bank branch audit reports .
+
+   Working :- It uses powerfull ML algorithms such as XGBOOST,CATBOOST,LGBM and our feature 1 i.e. Ai auditor to analyze the risk and uses voting classifier to determine best output at end .
 
