@@ -74,6 +74,7 @@ Output of A-MAS :-
 Human review :- 
   1. It gives the an chat interface where anomalies are reported to human user where person can resend the supporting documents for anomalies parameters and recorrect it
 
+Working:
 
    A-MAS constitute of Graph, VectorDB,Statelist( Context Window memory )
 
@@ -87,4 +88,8 @@ Human review :-
 
       This loop continues for whole invoice bill.
        
+    Human review :- 
+       Every approved and non approved parameters are send to Chat interface one by one for human feedback and re run the process as per user recommendation if required .
 
+    Tools :-  Langchain , LangGraph , VectorDB ,  GPT-finetuned ( [B-LLM](B_llm.png)) and other tools.
+  
