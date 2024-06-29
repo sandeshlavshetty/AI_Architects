@@ -101,10 +101,16 @@ Working:
   Input :- 
    1. Any type of Banking and non-banking data which Banker/auditers/Heads want to see in visual presentation .
    2. Types of Diagram ( histogram,piecharts,etc.)
+   3. Querry for which data visual user want through chat interface only in natural language.
 
   Output :- 
    1. It intially create self querry and create visual presentations of Data.
    2. The query can be given by user  and create on demand visual presentation with hassle free work.  ( e.g. create a line plot between loan approval and loan re-payments , create histogram for types of loans approved,etc)
 
   Working :-
-   1.
+   1. Data is first splitted into chunks and there respectivev context is stored in DB using our B-LLM.
+   2. Based on User query a RAG(Retrieval-Augmented Generation) is performed and data is forwarded to viz-Generator.
+   3. Viz-Generator ( Visual Generator ) generate the images and graphs based on Related data and showed at info-grapher stage.
+   4. At info-grapher stage the Data-visualis are presented and further customizations are done ( e.g.* Sketch prompt: line sketch art,line drawing,etc ) through chat interface only in natural language.
+
+
