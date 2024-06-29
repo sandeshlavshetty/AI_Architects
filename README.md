@@ -54,7 +54,9 @@ We present 3 features of our solution :-
    
      3️⃣. Checking extracted data according to Auditing compliance rules
    
-     4️⃣. reporting acceptable and anomalies parameters 
+     4️⃣. reporting acceptable and anomalies parameters
+
+   
 
    
 
