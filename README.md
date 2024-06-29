@@ -61,5 +61,23 @@ We present 3 features of our solution :-
 
 ![ovs_final](https://github.com/sandeshlavshetty/AI_Architects/assets/138968398/d924cef7-f407-47ae-9ed9-5cd26dde5b04)
 
-   
+
+Input of A-MAS :- 
+  1. Invoice bill and data
+  2. Supporting Documents to authorize in any format ( docs,pdfs,images,etc or SQL Database ) including it supports Multi-language
+
+Output of A-MAS :- 
+  1. Approved parameters and anomalies parameters ( parameters = auditing rules , and supporting documents authorization )
+  2. Final Audit report
+  3. In report detailed Citation of supported documents for approved parameters will given . ( Ensuring Explainable Ai protocol )
+
+Human review :- 
+  1. It gives the an chat interface where anomalies are reported to human user where person can resend the supporting documents for anomalies parameters and recorrect it
+
+
+   A-MAS constitute of Graph, VectorDB,Statelist( Context Window memory )
+
+     Graph :- It is based on Supervisor Hierarchical architecture 
+
+       1. 
 
