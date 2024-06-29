@@ -37,3 +37,24 @@ We present 3 features of our solution :-
 [Overview image ](ov.png)
 ![ov](https://github.com/sandeshlavshetty/AI_Architects/assets/138968398/fb0a9c10-a45a-4f14-adff-91fd7eb2e001)
 
+[Finetuned LLM model](B_llm.png)
+
+![B_llm](https://github.com/sandeshlavshetty/AI_Architects/assets/138968398/16af02db-943d-4484-882e-bf0ac28072ad)
+
+
+
+1. Ai auditor ( A-MAS )
+   A-MAS > Auditing Multi agent system
+
+   Our Ai auditor performs the task of :-
+   
+     1️⃣. Document matching
+   
+     2️⃣. Form extraction
+   
+     3️⃣. Checking extracted data according to Auditing compliance rules
+   
+     4️⃣. reporting acceptable and anomalies parameters 
+
+   
+
