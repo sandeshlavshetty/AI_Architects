@@ -2,7 +2,7 @@
 
 What's Gen Ai ? more specifically what is LLM ?
 
-Machine With calculation enabled + Understanding Natural Language + a self planner enabled.
+Machine With calculation enabled + Understanding Natural Language + a self planner enabled( Our feature by Team Ai_Architects).
 
 Human ?
 
